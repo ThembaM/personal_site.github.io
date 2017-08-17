@@ -1,7 +1,7 @@
-name: "personal_site"
+name: "themba-website"
 output_dir: "."
 navbar:
-  title: "personal_site"
+  title: "thembas website"
   left:
     - text: "Home"
       href: index.html

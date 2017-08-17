@@ -2,5 +2,5 @@
 title: "About Me"
 ---
 
-I am a data enthusiast. I am interested in understanding the whole data channel.
+I am a data enthusiast. I am interested in understanding the whole data channel. 
 How data are created, transmitted, stored, analysed and used.
